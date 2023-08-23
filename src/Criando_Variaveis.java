@@ -9,7 +9,6 @@ public class Criando_Variaveis {
 
         nome = "Lucas";
         idade = 26;
-
         idadeAnoQueVem = idade + 1;
 
         System.out.println("nome:"+nome);

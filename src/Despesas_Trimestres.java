@@ -1,3 +1,4 @@
+//Programa verifica gasto trimensal e gasto médio mensal
 import java.util.Scanner;
 
 public class Despesas_Trimestres{

@@ -1,4 +1,4 @@
-/*Cadastro de um hotel onde divide a categoria de idade entre:
+/*Cadastro de um hotel onde divide a categoria de idade entre: ...
  --->  Criança, adolescente e Adulto */
 
 import java.util.Scanner;

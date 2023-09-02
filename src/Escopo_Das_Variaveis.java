@@ -1,3 +1,4 @@
+/*
 // O escopo da variável é o nome dado ao trecho de código
 // em que aquela variável existe e o lugar onde é possível acessá-la.
 
@@ -58,3 +59,4 @@ public class Escopo_Das_Variaveis{
 
     }
 }
+ */

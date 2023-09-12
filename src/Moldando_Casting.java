@@ -22,3 +22,17 @@ public class Moldando_Casting{
 
     }
 }
+
+/*         1° byte -> short -> int -> long -> float -> double
+           2° char -> int
+
+           * Tipos menores podem ser automaticamente convertidos
+           em tipos maiores sem a necessidade de casting.
+
+           *No entanto, o caminho inverso não é verdadeiro.
+            Você não pode automaticamente converter tipos maiores
+            ou mais precisos em tipos menores ou menos precisos.
+            Isso exigiria uma conversão explícita (casting),
+            e pode resultar em perda de dados se o valor não
+            for compatível.
+ */

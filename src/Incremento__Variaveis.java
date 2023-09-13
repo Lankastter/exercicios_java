@@ -19,5 +19,23 @@ public class Incremento__Variaveis{
         System.out.println("o valor de A será:"+a); // aqui A valera 6.
         System.out.println("o valor de B será:"+b); // aqui B valera 6.
 
+
+        /* Em Java, além dos operadores de incremento (++i e i++),
+           existem os operadores de decremento (--i e i--).
+
+           Além disso, existem operadores de atribuição combinada, como i += x e i -= x.
+           Essas instruções são usadas para atualizar o valor de uma variável de forma
+           mais concisa.
+
+            i += x:  ->Isso é uma instrução de atribuição combinada de adição.
+            Ela adiciona o valor de x à variável i e armazena o resultado em i.
+            É equivalente a i = i + x.
+
+            i -= x:   ->Isso é uma instrução de atribuição combinada de subtração.
+            Ela subtrai o valor de x da variável i e armazena o resultado em i.
+            É equivalente a i = i - x.
+
+        */
+
     }
 }
